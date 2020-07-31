@@ -1,7 +1,7 @@
 // import AppError from '../errors/AppError';
 
 class DeleteTransactionService {
-  public async execute(): Promise<void> {
+  public async execute(id): Promise<void> {
     // TODO
   }
 }
